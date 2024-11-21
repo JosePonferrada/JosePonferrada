@@ -16,3 +16,5 @@
 <a href="https://github.com/JosePonferrada" target="_blank">
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JosePonferrada&count_private=true&theme=radical" />
 </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseponferrada&show_icons=true&locale=en" alt="joseponferrada" /></p>

@@ -16,12 +16,21 @@
     <!-- Diseño -->
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />    
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <!-- Desarrollo Frontend -->
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,angular,bootstrap" />
   </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <!-- Desarrollo Backend -->
     <img src="https://skillicons.dev/icons?i=php,java,laravel,spring,mongodb,mysql" />
+  </a>
+</p>
+<p align="center">
+	<a href="https://skillicons.dev">
     <!-- Herramientas y Otros -->
     <img src="https://skillicons.dev/icons?i=docker,vscode,eclipse,github,discord" />
   </a>

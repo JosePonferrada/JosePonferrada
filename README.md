@@ -14,14 +14,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Diseño -->
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-    
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />    
     <!-- Desarrollo Frontend -->
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,angular,bootstrap" />
-    
     <!-- Desarrollo Backend -->
     <img src="https://skillicons.dev/icons?i=php,java,laravel,spring,mongodb,mysql" />
-    
     <!-- Herramientas y Otros -->
     <img src="https://skillicons.dev/icons?i=docker,vscode,eclipse,github,discord" />
   </a>

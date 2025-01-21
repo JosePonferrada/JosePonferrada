@@ -15,8 +15,11 @@
   <a href="https://skillicons.dev">
     <!-- Diseño -->
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />    
+  </a>
+  <a href="https://skillicons.dev">
     <!-- Desarrollo Frontend -->
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,angular,bootstrap" />
+  </a>
     <!-- Desarrollo Backend -->
     <img src="https://skillicons.dev/icons?i=php,java,laravel,spring,mongodb,mysql" />
     <!-- Herramientas y Otros -->

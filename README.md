@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/joseponfe10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="joseponfe10" /></a>
+<a href="https://discord.gg/joseponfe10" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="joseponfe10" target="_blank"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

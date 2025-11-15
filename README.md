@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose, aka PonFlickS</h1>
 <h3 align="center">Learning web app development from Spain</h3>
 
-- 🌱 I’m currently learning **VUE 3**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ponferradajosemanuel@gmail.com**
 
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Desarrollo Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,angular,bootstrap,vue" />
   </a>
 </p>
 <p align="center">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose, aka PonFlickS</h1>
 <h3 align="center">Learning web app development from Spain</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Next.JS and Supabase**
 
 - 📫 How to reach me **ponferradajosemanuel@gmail.com**
 

@@ -42,8 +42,8 @@
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api?username=JosePonferrada&count_private=true&theme=radical" />
 		</td>
-		<td>
+		<!--<td>
 			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=joseponferrada&show_icons=true&theme=radical&layout=compact&langs_count=8" />
-		</td>
+		</td> -->
 	</tr>
 </table>
